@@ -10,7 +10,9 @@ F1
 
 ##quick open
 
-```ctrl+p```
+```
+ctrl+p
+```
 
 ##compare differences between files
 
