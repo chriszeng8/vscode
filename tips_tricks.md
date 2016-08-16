@@ -4,7 +4,9 @@ Source: https://www.youtube.com/watch?v=fkM9jCRBwSs
 
 ##command palatte for all key bindings
 
-```F1``` 
+```
+F1
+``` 
 
 ##quick open
 
